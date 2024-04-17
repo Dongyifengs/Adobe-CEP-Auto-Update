@@ -1,0 +1,34 @@
+{
+  "updateList": [
+    {
+      "id": 1,
+      "name": "CepName0.1",
+      "newVersion": 0.1,
+      "updateType": 1,
+      "updateTypeText": "严重",
+      "updateText": "测试更新日志，当前是0.1版本的更修日志，ababababababababababababa",
+      "updateUrl": "http://localhost:8081/file/update.zip",
+      "updateTime": "2023-12-14 15:23:12"
+    },
+    {
+      "id": 2,
+      "name": "CepName0.2",
+      "newVersion": 0.2,
+      "updateType": 1,
+      "updateTypeText": "严重",
+      "updateText": "测试更新日志，当前是0.2版本更新日志，ahfaopifghapfhaihfapofjaiosfhaofhaoifha",
+      "updateUrl": "http://localhost:8081/file/update.zip",
+      "updateTime": "2023-12-14 15:23:12"
+    },
+    {
+      "id": 3,
+      "name": "CepName0.3",
+      "newVersion": 0.3,
+      "updateType": 4,
+      "updateTypeText": "严重",
+      "updateText": "测试更新日志，当前是0.3版本的更新日志，afhopaihfauiufjapifhaiufaofhjaoi",
+      "updateUrl": "http://127.0.0.1:8081/file/update0.3.zip",
+      "updateTime": "2023-12-14 15:23:12"
+    }
+  ]
+}
